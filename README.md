@@ -3,7 +3,7 @@
 <h3 align="center">Back-end Developer</h3>
 
 
-- Fifth semester student of Computer Science at EAFIT University in Colombia, interested in the area of back-end development, with Java, Spring, MySQL technologies. Certified courses in scrum, agile methods, programming and many more things, I am interested also in technologies like Go and PHP, I try to learn every day more of this beautiful world of development.
+- Fifth semester student of Computer Science at EAFIT University in Colombia, interested in the area of back-end development, with Java, Spring, MySQL technologies. Certified courses in scrum, agile methods, programming and many more things, I am interested also in technologies like Go and PHP, I try to learn every day more of this beautiful world of development ❤️ .
 
 <h1 align="center"></h1>
 
