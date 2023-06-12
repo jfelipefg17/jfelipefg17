@@ -23,11 +23,11 @@
 
 
 <h1 align="center"></h1>
+<h3 align="center">Stats</h3>
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jfelipefg17&theme=highcontrast&show_icons=true&locale=en" alt="jfelipefg17" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jfelipefg17&theme=highcontrast&show_icons=true&locale=en" alt="jfelipefg17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jfelipefg17&theme=highcontrast" alt="jfelipefg17" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jfelipefg17&theme=highcontrast" alt="jfelipefg17" /></p>
 
 
 
