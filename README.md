@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Back-end Scholarship with Java and Quality Control + Automatic with Globant company.**
 
-- 💬 Ask me about **ask me anything you want, i will find a way to help you from my possibilities.**
+- 💬 Ask me about anything you want, i will find a way to help you from my possibilities.**
 
 - 📫 How to reach me **jfelipefg17@gmail.com**
 
