@@ -3,11 +3,11 @@
 <h3 align="center">Back-end Developer</h3>
 
 
-- Fifth semester student of Computer Science at EAFIT University in Colombia, interested in the area of back-end development, with Java, Spring, MySQL technologies. Certified courses in scrum, agile methods, programming and many more things, I am interested also in technologies like Go and PHP, I try to learn every day more of this beautiful world of development ❤️.
+- sixth semester student of Computer Science at EAFIT University in Colombia, interested in the area of back-end development, with Java, Spring, MySQL technologies. Certified courses in scrum, agile methods, programming and many more things, I am interested also in technologies like Go and PHP, I try to learn every day more of this beautiful world of development ❤️.
 
 <h1 align="center"></h1>
 
-- 🌱 I’m currently learning **Back-end Scholarship with Java and Quality Control + Automatic with Globant company.**
+- 🌱 I’m currently learning **AWS Certified Developer - Associate**
 
 - 💬 Ask me about anything you want, i will find a way to help you from my possibilities.**
 
