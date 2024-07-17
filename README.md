@@ -17,16 +17,16 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Git_logo.svg" alt="git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/devicon/git-original.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Java_Logo.svg" alt="java" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/devicon-java-plain.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MySQL_logo.svg/1200px-MySQL_logo.svg.png" alt="mysql" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/devicon-mysql-plain.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Spring_Framework_Logo.svg" alt="spring" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/devicon-spring-plain.svg" alt="spring" width="40" height="40"/>
   </a>
 </p>
 
@@ -50,13 +50,13 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://twitter.com/jfelipefg17" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2020.svg" alt="jfelipefg17" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2020.svg" alt="twitter" height="30" width="30" />
   </a>
   <a href="https://linkedin.com/in/jfelipefg17/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="https://www.linkedin.com/in/jfelipefg17/" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="linkedin" height="30" width="30" />
   </a>
   <a href="https://instagram.com/felipeflorez17" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="felipeflorez17" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="30" width="30" />
   </a>
 </p>
 <p align="right">
