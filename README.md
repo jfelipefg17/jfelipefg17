@@ -7,7 +7,7 @@
 
 <h1 align="center"></h1>
 
-- 🌱 I’m currently learning **AWS Certified Developer - Associate**
+- 🌱 I’m currently learning **Reactive Programming with java**
 
 - 💬 Ask me about anything you want, i will find a way to help you from my possibilities.**
 
