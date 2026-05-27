@@ -1,49 +1,91 @@
-<h1 align="center">🔥 Felipe Florez 🔥</h1>
-<h3 align="center">Back-end Developer</h3>
+<h1 align="center">Felipe Florez</h1>
+<h3 align="center">Data Engineer · Systems Engineering @ EAFIT · 8th Semester</h3>
 
 <p align="center">
-  Backend developer specialized in Java, focusing on crafting robust and scalable solutions adhering to SOLID principles and Design Patterns, ensuring clean code and architecture using Java, Spring, and SQL. Proficient in Docker, Kubernetes, unit testing, and much more. Seeking new opportunities to apply my development skills. I try to learn more every day about this beautiful world of development ❤️.
+  Systems Engineering student at Universidad EAFIT, focused on data engineering.
+  I build ETL pipelines, design relational and non-relational databases, and automate
+  data integration using Python, SQL, and Docker. Passionate about data architecture,
+  large-scale data processing, and engineering best practices. Currently working as a
+  <strong>Data Engineering Intern at Celerix S.A.S</strong> — Medellín, Colombia 🇨🇴
 </p>
 
 <h1 align="center"></h1>
 
-- 🌱 I'm currently learning **Reactive Programming with Java**
-- 💬 Ask me about anything you want; I will find a way to help you from my possibilities.
-- 📫 How to reach me **jfelipefg17@gmail.com**
+- 🎓 Systems Engineering student at **EAFIT University** — 8th semester
+- 🏢 Data Engineering Intern at **Celerix S.A.S** (El Poblado, Medellín)
+- 🔭 Currently building **ETL pipelines with Python, pandas and PostgreSQL**
+- 🌱 Currently learning **Apache Airflow, dbt and pipeline orchestration**
+- 💬 Ask me about **SQL, ETL, PostgreSQL, Python for data, Docker**
+- 📫 Reach me at **jfelipefg17@gmail.com**
 
 <h1 align="center"></h1>
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Data Engineering Stack</h3>
 
+<h4 align="center">Languages & Data Processing</h4>
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  &nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  &nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
+</p>
+
+<h4 align="center">Databases</h4>
+<p align="center">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+</p>
+
+<h4 align="center">Infrastructure & DevOps</h4>
+<p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  &nbsp;
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
   </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+</p>
+
+<h4 align="center">Currently Learning</h4>
+<p align="center">
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/>
   </a>
+  &nbsp;
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/>
+  </a>
+  &nbsp;
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
 
