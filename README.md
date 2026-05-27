@@ -1,5 +1,4 @@
 <h1 align="center">Felipe Florez</h1>
-<h3 align="center">Data Engineer · Systems Engineering @ EAFIT · 8th Semester</h3>
 
 <p align="center">
   Systems Engineering student at Universidad EAFIT, focused on data engineering.
@@ -93,12 +92,6 @@
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfelipefg17&theme=highcontrast&show_icons=true&locale=en&cache_seconds=1800" alt="jfelipefg17" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jfelipefg17&theme=highcontrast&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="jfelipefg17" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=jfelipefg17&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="jfelipefg17" />
 </p>
 
@@ -108,6 +101,10 @@
 <p align="center">
   <a href="mailto:jfelipefg17@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" height="30" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jfelipefg17/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
   &nbsp;
   <a href="https://instagram.com/felipeflorez17" target="blank">
